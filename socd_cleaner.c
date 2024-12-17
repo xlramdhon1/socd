@@ -22,10 +22,10 @@
 
 // This is scuffed. ESC is a scan code, everything else is virtual key codes
 #define KEY_ESC 1
-#define KEY_W 0x57
-#define KEY_A 0x41
-#define KEY_S 0x53
-#define KEY_D 0x44
+#define KEY_W 0x4C
+#define KEY_A 0xBC
+#define KEY_S 0xBE
+#define KEY_D 0xBF
 #define KEY_E 0x45
 #define KEY_UP VK_UP
 #define KEY_LEFT VK_LEFT
